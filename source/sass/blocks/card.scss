@@ -1,0 +1,23 @@
+.card {
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
+.card__link {
+  text-decoration: none;
+}
+
+.card__image {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.card__title {
+  color: #000000;
+  text-transform: uppercase;
+  margin:0;
+}
+.card__description {
+  margin: 0;
+  margin-bottom: 11px;
+}
