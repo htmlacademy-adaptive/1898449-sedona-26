@@ -1,0 +1,49 @@
+.button {
+  display: block;
+  font-size: 21px;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #ffffff;
+  background-color: #81B3D2;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: none;
+  text-align: center;
+}
+
+.button--second {
+  display: block;
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #ffffff;
+  background-color: #81B3D2;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  border: none;
+  text-align: center;
+}
+
+.button--search {
+  padding: 16px 49px;
+}
+
+.button--form {
+  padding: 18px 34px 14px 32px;
+  width: 100%;
+}
+
+.button--ok {
+  padding: 18px 62px 14px;
+  min-width: 180px;
+  margin: auto;
+}
+
+.button--close {
+  padding: 18px 62px 14px;
+  min-width: 280px;
+}
